@@ -25,7 +25,7 @@ This project is designed to predict student math scores based on various feature
 **📂 Project Structure**
 
 - archive.zip → Dataset for analysis.
-- app.py → Main script for data processing, model training, and evaluation.
+- app.ipynb → Main script for data processing, model training, and evaluation.
 - requirements.txt → Dependencies for running the project.
 
 **📌 Model Evaluation**
